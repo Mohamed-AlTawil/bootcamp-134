@@ -1,0 +1,15 @@
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\bin\Debug\net6.0\DeltaProject.exe
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\bin\Debug\net6.0\DeltaProject.deps.json
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\bin\Debug\net6.0\DeltaProject.runtimeconfig.json
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\bin\Debug\net6.0\DeltaProject.dll
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\bin\Debug\net6.0\DeltaProject.pdb
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.csproj.AssemblyReference.cache
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.AssemblyInfoInputs.cache
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.AssemblyInfo.cs
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.csproj.CoreCompileInputs.cache
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.dll
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\refint\DeltaProject.dll
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.pdb
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\DeltaProject.genruntimeconfig.cache
+D:\KodluyoruzBootcamp\134\DeltaProject\DeltaProject\obj\Debug\net6.0\ref\DeltaProject.dll
