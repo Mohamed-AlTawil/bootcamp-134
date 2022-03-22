@@ -1,0 +1,15 @@
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\bin\Debug\net6.0\Prime_number.exe
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\bin\Debug\net6.0\Prime_number.deps.json
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\bin\Debug\net6.0\Prime_number.runtimeconfig.json
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\bin\Debug\net6.0\Prime_number.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\bin\Debug\net6.0\Prime_number.pdb
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.csproj.AssemblyReference.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.AssemblyInfoInputs.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.AssemblyInfo.cs
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.csproj.CoreCompileInputs.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\refint\Prime_number.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.pdb
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\Prime_number.genruntimeconfig.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_number\Prime_number\obj\Debug\net6.0\ref\Prime_number.dll
