@@ -1,0 +1,15 @@
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\bin\Debug\net6.0\Prime_Listing.exe
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\bin\Debug\net6.0\Prime_Listing.deps.json
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\bin\Debug\net6.0\Prime_Listing.runtimeconfig.json
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\bin\Debug\net6.0\Prime_Listing.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\bin\Debug\net6.0\Prime_Listing.pdb
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.csproj.AssemblyReference.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.AssemblyInfoInputs.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.AssemblyInfo.cs
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.csproj.CoreCompileInputs.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\refint\Prime_Listing.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.pdb
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\Prime_Listing.genruntimeconfig.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Prime_Listing\Prime_Listing\obj\Debug\net6.0\ref\Prime_Listing.dll
