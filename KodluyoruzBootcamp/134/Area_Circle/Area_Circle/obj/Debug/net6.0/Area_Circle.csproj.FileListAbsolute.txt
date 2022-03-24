@@ -1,0 +1,15 @@
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\bin\Debug\net6.0\Area_Circle.exe
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\bin\Debug\net6.0\Area_Circle.deps.json
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\bin\Debug\net6.0\Area_Circle.runtimeconfig.json
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\bin\Debug\net6.0\Area_Circle.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\bin\Debug\net6.0\Area_Circle.pdb
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.csproj.AssemblyReference.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.AssemblyInfoInputs.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.AssemblyInfo.cs
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\refint\Area_Circle.dll
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.pdb
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\Area_Circle.genruntimeconfig.cache
+C:\Users\Eng_Mohamed\source\repos\Mohamed-AlTawil\bootcamp-134\KodluyoruzBootcamp\134\Area_Circle\Area_Circle\obj\Debug\net6.0\ref\Area_Circle.dll
